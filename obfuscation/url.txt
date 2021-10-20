@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=Y50WdhSDjic
+https://gchq.github.io/CyberChef/
+http://sandsprite.com/blogs/index.php?uid=7&pid=152
+https://medium.com/@netscylla/dridex-loader-technique-used-for-msf-shells-a8c7b378e667
+https://github.com/4w4k3/Umbrella
